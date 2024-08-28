@@ -11,7 +11,7 @@ sections:
     text: >
       Welcome to **Shadox Studio** where creativity and precision come together.
       We bring your ideas to life with expert media solutions, from video
-      editing to graphic design, animation.
+      editing to graphic designing and animation.
     actions:
       - label: Get started
         altText: ''
