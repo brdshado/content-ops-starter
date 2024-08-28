@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Your Vision Ours Expertise
+      text: Innovative Media & Design Solutions
       color: text-dark
       type: TitleBlock
     subtitle: Your Vision Our Expertise
