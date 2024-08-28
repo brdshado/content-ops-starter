@@ -13,15 +13,6 @@ sections:
       We bring your ideas to life with expert media solutions, from video
       editing to graphic designing and animation.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: Explore Us
         altText: ''
         url: /
