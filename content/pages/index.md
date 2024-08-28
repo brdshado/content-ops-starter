@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Innovative Media & Design Solutions
-      color: text-neutral
+      color: text-primary
       type: TitleBlock
     subtitle: "Expertise in Editing, Graphics,\_ Animation & Designing"
     text: >
