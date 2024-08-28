@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: "Expertise in Editing, Graphics,\_ Animation & Designing"
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to **Shadox Studio** where creativity and precision come together.
+      We bring your ideas to life with expert media solutions, from video
+      editing to graphic design, animation.
     actions:
       - label: Get started
         altText: ''
